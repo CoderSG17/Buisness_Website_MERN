@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  font-family: 'Poppins',sans-serif;
+}
+.butn{
+  height: 40px;
+  width: 150px;
+  margin-right: 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: plum;
+}
+.butn1{
+  height: 40px;
+  width: 150px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.img{
+  height: 350px;
+  width: 300px;
+
+}

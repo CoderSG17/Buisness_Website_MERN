@@ -1,0 +1,44 @@
+
+.heading{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+}
+.imgDiv{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid red;
+    height: 80vh;
+    margin-left: 60px;
+}
+
+.inp{
+    width: 450px;
+    padding: 5px;
+    margin-top: -15px;
+    margin-bottom: 15px;
+}
+.lftdiv{
+margin-top: 50px;
+height: 100%;
+border: 1px solid #ccc;
+/* display: flex;
+flex-direction: column; */
+}
+.textarea{
+    width: 450px;
+    height: 140px;
+    padding: 5px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+.map{
+    /* border: 1px solid red; */
+    margin-top: 150px;
+    width: 100vw;
+}

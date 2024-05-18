@@ -1,0 +1,29 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid red;
+    height: 70vh;
+    margin-left: 60px;
+}
+.leftdiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 70vh;
+
+    
+}
+.rightdiv{
+    border: 1px solid red;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.innerleftdiv{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+}
